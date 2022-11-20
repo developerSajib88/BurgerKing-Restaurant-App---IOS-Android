@@ -1,2 +1,16 @@
-# BurgerKing-Restaurant-App---IOS-Android
-Hi,,I am Sajib. I am develop a Restaurant type mobile app. The app name is Burger King. Burger king is a Fast food Restaurant Company. This app develop for this company and This app just I am trying. You can download this source code . And this source is a Flutter project. Which are flutter developer. I suggested for they. Thank You !
+# mealmonkey
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
