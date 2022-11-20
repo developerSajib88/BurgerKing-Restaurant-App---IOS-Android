@@ -1,4 +1,4 @@
-# BurgerKing
+# Burger King
 
 A new Flutter project.
 
